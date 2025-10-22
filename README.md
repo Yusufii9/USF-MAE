@@ -34,7 +34,7 @@ This repository provides:
 - **Key results:**  
   - F1-scores of 81.6 %, 79.6 %, and 82.4 % on the above tasks  
   - Outperformed CNN and ViT baselines  
-  - Comparable to the supervised UltraSam model while using no labels
+  - Comparable to the supervised UltraSam model in BUS-BRA and outperfmed it in the MMOTU-2D and GIST514-DB datasets while using no labels
 
 ---
 
