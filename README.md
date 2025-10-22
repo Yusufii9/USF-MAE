@@ -34,7 +34,7 @@ This repository provides:
 - **Key results:**  
   - F1-scores of 81.6 %, 79.6 %, and 82.4 % on the above tasks  
   - Outperformed CNN and ViT baselines  
-  - Comparable to the supervised UltraSam model in BUS-BRA and outperfmed it in the MMOTU-2D and GIST514-DB datasets while using no labels
+  - Comparable to the supervised UltraSam model on BUS-BRA and outperfmed it on the MMOTU-2D and GIST514-DB datasets while using no labels
 
 ---
 
@@ -45,7 +45,7 @@ All datasets remain under their original licenses. We provide direct access link
 
 | Dataset Name | Anatomy / Target Region | Access Link |
 |---------------|------------------------|--------------|
-| 105US | Liver | [Link](#) |
+| 105US | Liver | [Link](https://www.researchgate.net/publication/329586355_100_2D_US_Images_and_Tumor_Segmentation_Masks) |
 | AbdomenUS | Abdomen | [Link](#) |
 | ACOUSLIC | Abdomen | [Link](#) |
 | AUL | Liver | [Link](#) |
