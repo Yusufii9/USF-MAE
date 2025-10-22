@@ -3,7 +3,7 @@
 This repository accompanies the paper:
 
 > **USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization**  
-> Youssef Megahed, et al., 2025  
+> Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan, 2025  
 > Submitted to *Medical Image Analysis* Journal
 
 ---
@@ -46,8 +46,8 @@ All datasets remain under their original licenses. We provide direct access link
 | Dataset Name | Anatomy / Target Region | Access Link |
 |---------------|------------------------|--------------|
 | 105US | Liver | [Link](https://www.researchgate.net/publication/329586355_100_2D_US_Images_and_Tumor_Segmentation_Masks) |
-| AbdomenUS | Abdomen | [Link](#) |
-| ACOUSLIC | Abdomen | [Link](#) |
+| AbdomenUS | Abdomen | [Link](https://www.kaggle.com/datasets/ignaciorlando/ussimandsegm?resource=download) |
+| ACOUSLIC | Abdomen | [Link]([#](https://zenodo.org/records/12697994)) |
 | AUL | Liver | [Link](#) |
 | BLUES | Lung | [Link](#) |
 | BP | Neck | [Link](#) |
