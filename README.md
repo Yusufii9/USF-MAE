@@ -3,8 +3,8 @@
 This repository accompanies the paper:
 
 > **USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization**  
-> Youssef [Your Last Name], et al., 2025  
-> Submitted to *Intelligent Medicine* Journal
+> Youssef Megahed, et al., 2025  
+> Submitted to *Medical Image Analysis* Journal
 
 ---
 
