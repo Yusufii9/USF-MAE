@@ -100,8 +100,8 @@ All datasets remain under their original licenses. We provide direct access link
 
 | Model | Pretraining Data | Epochs | Download |
 |--------|------------------|---------|-----------|
-| **USF-MAE (100 epochs)** | OpenUS-46 (370K images) | 100 | [Download]([#](https://drive.google.com/file/d/1ZPu_7KhMEuaq-XdLhVp2EEgMgLJ4dKhr/view?usp=drive_link)) |
-| **USF-MAE (500 epochs)** | OpenUS-46 (370K images) | 500 | [Download]([#](https://drive.google.com/file/d/15n71qHXSBjEjrLtCOzvBb6gTsGhh7NUg/view?usp=drive_link)) |
+| **USF-MAE (100 epochs)** | OpenUS-46 (370K images) | 100 | [Download]((https://drive.google.com/file/d/1ZPu_7KhMEuaq-XdLhVp2EEgMgLJ4dKhr/view?usp=drive_link)) |
+| **USF-MAE (500 epochs)** | OpenUS-46 (370K images) | 500 | [Download]((https://drive.google.com/file/d/15n71qHXSBjEjrLtCOzvBb6gTsGhh7NUg/view?usp=drive_link)) |
 
 ---
 
