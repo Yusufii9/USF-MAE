@@ -112,3 +112,18 @@ All datasets remain under their original licenses. We provide direct access link
 # Clone repository
 git clone https://github.com/Yusufii9/USF-MAE.git
 cd USF-MAE
+
+## 📚 References
+
+If you find our work helpful for your research, please consider citing us using the following BibTeX entry:
+
+```bibtex
+@article{meyer2025ultrasam,
+  title={Ultrasam: a foundation model for ultrasound using large open-access segmentation datasets},
+  author={Meyer, Adrien and Murali, Aditya and Zarin, Farahdiba and Mutter, Didier and Padoy, Nicolas},
+  journal={International Journal of Computer Assisted Radiology and Surgery},
+  pages={1--10},
+  year={2025},
+  publisher={Springer}
+}
+
