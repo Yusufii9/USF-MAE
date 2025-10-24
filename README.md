@@ -46,50 +46,50 @@ All datasets remain under their original licenses. We provide direct access link
 |---------------|------------------------|--------------|
 | 105US | Liver | [Link](https://www.researchgate.net/publication/329586355_100_2D_US_Images_and_Tumor_Segmentation_Masks) |
 | AbdomenUS | Abdomen | [Link](https://www.kaggle.com/datasets/ignaciorlando/ussimandsegm?resource=download) |
-| ACOUSLIC | Abdomen | [Link]([#](https://zenodo.org/records/12697994)) |
-| AUL | Liver | [Link](#) |
-| BLUES | Lung | [Link](#) |
-| BP | Neck | [Link](#) |
-| Brachial Plexus | Neck | [Link](#) |
-| BrEaST | Breast | [Link](#) |
-| BUS (Dataset B) | Breast | [Link](#) |
-| BUS_UC | Breast | [Link](#) |
-| BUS_UCML | Breast | [Link](#) |
-| BUS-BRA | Breast | [Link](#) |
-| Cactus Dataset | Heart | [Link](#) |
-| CAMUS_public | Echocardiography | [Link](#) |
-| CardiacUDC | Heart | [Link](#) |
-| CCAUI | Common Carotid Artery | [Link](#) |
-| DFHI | Fetal Head | [Link](#) |
-| EchoCP | Heart | [Link](#) |
-| EchoNet-Dynamic | Heart | [Link](#) |
-| EchoNet-Pediatric | Heart | [Link](#) |
-| FALLMUD | Leg Muscle | [Link](#) |
-| FASS | Fetal Abdominal | [Link](#) |
-| Fast-U-Net | Fetal Abdominal | [Link](#) |
-| FEFT | Fetal Echocardiography | [Link](#) |
-| FETAL_PLANES_DB | Fetal Anatomy | [Link](#) |
-| FH-PS-AOP | Fetal Head | [Link](#) |
-| GIST514-DB | Gastrointestinal | [Link](#) |
-| HC | Fetal Head Circumference | [Link](#) |
-| JNU-IFM | Pelvis and Fetal Head | [Link](#) |
-| kidneyUS | Kidney | [Link](#) |
-| LUSS_phantom | Lung | [Link](#) |
-| MicroSeg | Prostate | [Link](#) |
-| MMOTU-2D | Ovarian Tumor | [Link](#) |
-| MMOTU-3D | Ovarian Tumor | [Link](#) |
-| Pocus | Lung | [Link](#) |
-| Porcine | Spinal Cord | [Link](#) |
-| PSFHS | Pelvis and Fetal Head | [Link](#) |
-| regPro | Prostate | [Link](#) |
-| S1 | Breast | [Link](#) |
-| Segthy | Thyroid and Neck | [Link](#) |
-| STMUS_NDA | Musculoskeletal | [Link](#) |
-| STU-Hospital | N/A | [Link](#) |
-| Thyroid Dataset | Head and Neck | [Link](#) |
-| Thyroid US Cineclip | Thyroid | [Link](#) |
-| Ultrasound Fetus Dataset | Fetal | [Link](#) |
-| UPBD | Brachial Plexus | [Link](#) |
+| ACOUSLIC | Abdomen | [Link](https://zenodo.org/records/12697994) |
+| AUL | Liver | [Link](https://zenodo.org/records/7272660) |
+| BLUES | Lung | [Link](https://github.com/NinaWie/COVID-BLUES) |
+| BP | Neck | [Link](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=train) |
+| Brachial Plexus | Neck | [Link](https://github.com/Regional-US/brachial_plexus) |
+| BrEaST | Breast | [Link](https://www.cancerimagingarchive.net/collection/breast-lesions-usg/) |
+| BUS (Dataset B) | Breast | [Link](https://helward.mmu.ac.uk/STAFF/M.Yap/dataset.php) |
+| BUS_UC | Breast | [Link](https://data.mendeley.com/datasets/3ksd7w7jkx/1) |
+| BUS_UCML | Breast | [Link](https://data.mendeley.com/datasets/7fvgj4jsp7/1) |
+| BUS-BRA | Breast | [Link](https://zenodo.org/records/8231412) |
+| Cactus Dataset | Heart | [Link](https://users.encs.concordia.ca/~kadem/cactus/#:~:text=Dataset%20Link%3A%20Download%20the%20CACTUS,database) |
+| CAMUS_public | Echocardiography | [Link](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/6373703d73e9f0047faa1bc8) |
+| CardiacUDC | Heart | [Link](https://www.kaggle.com/datasets/xiaoweixumedicalai/cardiacudc-dataset?select=cardiacUDC_dataset.z06) |
+| CCAUI | Common Carotid Artery | [Link](https://data.mendeley.com/datasets/d4xt63mgjm/1) |
+| DFHI | Fetal Head | [Link](https://zenodo.org/records/8265464) |
+| EchoCP | Heart | [Link](https://www.kaggle.com/datasets/xiaoweixumedicalai/echocp) |
+| EchoNet-Dynamic | Heart | [Link](https://echonet.github.io/dynamic/) |
+| EchoNet-Pediatric | Heart | [Link](https://echonet.github.io/pediatric/index.html#dataset) |
+| FALLMUD | Leg Muscle | [Link](https://kalisteo.cea.fr/index.php/fallmud/#) |
+| FASS | Fetal Abdominal | [Link](https://data.mendeley.com/datasets/4gcpm9dsc3/1) |
+| Fast-U-Net | Fetal Abdominal | [Link](https://github.com/vahidashkani/Fast-U-Net/tree/main) |
+| FEFT | Fetal Echocardiography | [Link](https://figshare.com/articles/figure/First_Trimester_Fetal_Echocardiography_Data_Set_for_Classification/21215492?file=37624184) |
+| FETAL_PLANES_DB | Fetal Anatomy | [Link](https://zenodo.org/records/3904280) |
+| FH-PS-AOP | Fetal Head | [Link](https://zenodo.org/records/7851339) |
+| GIST514-DB | Gastrointestinal | [Link](https://drive.google.com/drive/folders/1TG9Bq-OaKkMXV2s42f_oZJdoTOfIAZLi) |
+| HC | Fetal Head Circumference | [Link](https://zenodo.org/records/1327317) |
+| JNU-IFM | Pelvis and Fetal Head | [Link](https://figshare.com/articles/dataset/JNU-IFM/14371652) |
+| kidneyUS | Kidney | [Link](https://github.com/rsingla92/kidneyUS) |
+| LUSS_phantom | Lung | [Link](https://archive.researchdata.leeds.ac.uk/1263/) |
+| MicroSeg | Prostate | [Link](https://zenodo.org/records/10475293) |
+| MMOTU-2D | Ovarian Tumor | [Link](https://drive.google.com/drive/folders/1c5n0fVKrM9-SZE1kacTXPt1pt844iAs1) |
+| MMOTU-3D | Ovarian Tumor | [Link](https://drive.google.com/drive/folders/1c5n0fVKrM9-SZE1kacTXPt1pt844iAs1) |
+| Pocus | Lung | [Link](https://github.com/jannisborn/covid19_ultrasound) |
+| Porcine | Spinal Cord | [Link](https://github.com/HEPIUSLAB/ultrasound_spinal_cord_dataset) |
+| PSFHS | Pelvis and Fetal Head | [Link](https://zenodo.org/records/10969427) |
+| regPro | Prostate | [Link](https://zenodo.org/records/8004388) |
+| S1 | Breast | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8205136/) |
+| Segthy | Thyroid and Neck | [Link](https://www.cs.cit.tum.de/camp/publications/segthy-dataset/) |
+| STMUS_NDA | Musculoskeletal | [Link](https://data.mendeley.com/datasets/3jykz7wz8d/1) |
+| STU-Hospital | N/A | [Link](https://github.com/xbhlk/STU-Hospital/tree/master) |
+| Thyroid Dataset | Head and Neck | [Link](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation/tree/main) |
+| Thyroid US Cineclip | Thyroid | [Link](https://stanfordaimi.azurewebsites.net/datasets/a72f2b02-7b53-4c5d-963c-d7253220bfd5) |
+| Ultrasound Fetus Dataset | Fetal | [Link](https://www.kaggle.com/datasets/orvile/ultrasound-fetus-dataset?select=Ultrasound+Fetus+Dataset) |
+| UPBD | Brachial Plexus | [Link](https://ubpd.worldwidetracing.com:9443/) |
 
 > 📘 *Note:* All datasets retain their original licenses and should be cited appropriately.
 
