@@ -10,15 +10,14 @@ This repository accompanies the paper:
 
 ## 🧠 Overview
 
-**USF-MAE** is the first large-scale, self-supervised transformer foundation model trained exclusively on ultrasound (US) data.  
+**USF-MAE** is the first large-scale, self-supervised MAE foundation model trained exclusively on ultrasound (US) data.  
 The model leverages a **Vision Transformer (ViT)**–based masked autoencoder (MAE) architecture to learn rich, modality-specific representations directly from unlabeled ultrasound scans.
 
 USF-MAE was pretrained on **370,000 2D and 3D ultrasound images** curated from **46 open-source datasets**, collectively named **OpenUS-46**.  
 This repository provides:
 - The **USF-MAE pretrained checkpoint**
 - Access links and references for **OpenUS-46**
-- Scripts for preprocessing and fine-tuning
-- Example code for integrating USF-MAE into downstream tasks
+- Scripts for USF-MAE pretraining
 
 ---
 
@@ -26,7 +25,7 @@ This repository provides:
 
 - **Architecture:** Vision Transformer (ViT) encoder–decoder MAE  
 - **Pretraining strategy:** Self-supervised masked patch reconstruction  
-- **Pretraining data:** 370K unlabeled ultrasound images from 46 datasets  
+- **Pretraining data:** 360K unlabeled ultrasound images from 43 datasets (10k from 3 datasets were used in evaluation)  
 - **Downstream tasks:**  
   - Breast cancer classification (BUS-BRA)  
   - Ovarian tumor subtype classification (MMOTU-2D)  
@@ -34,7 +33,7 @@ This repository provides:
 - **Key results:**  
   - F1-scores of 81.6 %, 79.6 %, and 82.4 % on the above tasks  
   - Outperformed CNN and ViT baselines  
-  - Comparable to the supervised UltraSam model on BUS-BRA and outperfmed it on the MMOTU-2D and GIST514-DB datasets while using no labels
+  - Comparable to the supervised UltraSam model on BUS-BRA and outperformed it on the MMOTU-2D and GIST514-DB datasets while using no labels
 
 ---
 
@@ -92,7 +91,7 @@ All datasets remain under their original licenses. We provide direct access link
 | Ultrasound Fetus Dataset | Fetal | [Link](#) |
 | UPBD | Brachial Plexus | [Link](#) |
 
-> 📘 *Note:* Replace each “[Link](#)” with the corresponding dataset URL or DOI. All datasets retain their original licenses and should be cited appropriately.
+> 📘 *Note:* All datasets retain their original licenses and should be cited appropriately.
 
 ---
 
@@ -109,8 +108,5 @@ All datasets remain under their original licenses. We provide direct access link
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/USF-MAE.git
+git clone https://github.com/Yusufii9/USF-MAE.git
 cd USF-MAE
-
-# Example: load pretrained model
-python scripts/load_usfmae.py --checkpoint checkpoints/usfmae_100ep.pth
