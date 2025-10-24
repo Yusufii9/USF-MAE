@@ -17,8 +17,8 @@ The model leverages a **Vision Transformer (ViT)**–based masked autoencoder (M
 
 USF-MAE was pretrained on **370,000 2D and 3D ultrasound images** curated from **46 open-source datasets**, collectively named **OpenUS-46**.  
 This repository provides:
-- The **USF-MAE pretrained checkpoint** can be found in the [Checkpoints section](#-checkpoints)
-- Access links and references for **OpenUS-46** can be found in the [OpenUS-46 Dataset Collection section](#-openus-46-dataset-collection)
+- The **USF-MAE pretrained checkpoint** ([Checkpoints section](#-checkpoints))
+- Access links and references for **OpenUS-46** ([OpenUS-46 Dataset Collection section](#-openus-46-dataset-collection))
 - Scripts for USF-MAE pretraining
 
 ---
