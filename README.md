@@ -112,6 +112,7 @@ All datasets remain under their original licenses. We provide direct access link
 # Clone repository
 git clone https://github.com/Yusufii9/USF-MAE.git
 cd USF-MAE
+```
 
 ## 📚 References
 
@@ -126,4 +127,5 @@ If you find our work helpful for your research, please consider citing us using 
   year={2025},
   publisher={Springer}
 }
+```
 
