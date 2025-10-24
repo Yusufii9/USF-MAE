@@ -8,9 +8,9 @@ This repository accompanies the paper:
 
 ---
 
-## 🧠 Overview
-
 ![USF-MAE Architecture](figures/USF-MAE.jpeg)
+
+## 🧠 Overview
 
 **USF-MAE** is the first large-scale, self-supervised MAE foundation model trained exclusively on ultrasound (US) data.  
 The model leverages a **Vision Transformer (ViT)**–based masked autoencoder (MAE) architecture to learn rich, modality-specific representations directly from unlabeled ultrasound scans.
