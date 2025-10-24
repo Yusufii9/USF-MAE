@@ -119,13 +119,13 @@ cd USF-MAE
 If you find our work helpful for your research, please consider citing us using the following BibTeX entry:
 
 ```bibtex
-@article{meyer2025ultrasam,
-  title={Ultrasam: a foundation model for ultrasound using large open-access segmentation datasets},
-  author={Meyer, Adrien and Murali, Aditya and Zarin, Farahdiba and Mutter, Didier and Padoy, Nicolas},
-  journal={International Journal of Computer Assisted Radiology and Surgery},
-  pages={1--10},
+@article{megahed2025usfmae,
+  title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization},
+  author={Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan},
+  journal={},
+  pages={1--15},
   year={2025},
-  publisher={Springer}
+  publisher={}
 }
 ```
 
