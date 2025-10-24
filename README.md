@@ -3,7 +3,7 @@
 This repository accompanies the paper:
 
 > **Paper Title: USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization**  
-> Authors: Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan  
+> Authors: *Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan* 
 > Submitted to *Computers in Biology and Medicine* Journal, 2025
 
 ---
