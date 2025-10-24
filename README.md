@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-> **Paper Title: USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization**  
+> **Paper Title: USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding**  
 > Authors: *Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan*  
 > Submitted to *Computers in Biology and Medicine* Journal, 2025
 
@@ -120,7 +120,7 @@ If you find our work helpful for your research, please consider citing us using 
 
 ```bibtex
 @article{megahed2025usfmae,
-  title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding for Cross-Task Generalization},
+  title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding},
   author={Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan},
   journal={},
   pages={1--15},
