@@ -125,7 +125,7 @@ If you find our work helpful for your research, please consider citing us using 
   title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding},
   author={Youssef Megahed and Robin Ducharme and Mark Walker and Steven Hawken and Adrian D. C. Chan},
   year={2025},
-  eprint={2510.22990},
+  eprint={2510.22990v1},
   archivePrefix={arXiv},
   primaryClass={eess.IV},
   url={https://doi.org/10.48550/arXiv.2510.22990},
