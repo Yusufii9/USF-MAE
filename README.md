@@ -6,6 +6,8 @@ This repository accompanies the paper:
 > Authors: *Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan*  
 > Submitted to *Computers in Biology and Medicine* Journal, 2025
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.22990-b31b1b.svg)](https://doi.org/10.48550/arXiv.2510.22990)
+
 ---
 
 ![USF-MAE Architecture](figures/USF-MAE.jpeg)
@@ -121,11 +123,12 @@ If you find our work helpful for your research, please consider citing us using 
 ```bibtex
 @article{megahed2025usfmae,
   title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding},
-  author={Youssef Megahed, Robin Ducharme, Mark Walker, Steven Hawken, Adrian D.C. Chan},
-  journal={},
-  pages={1--15},
+  author={Youssef Megahed and Robin Ducharme and Mark Walker and Steven Hawken and Adrian D. C. Chan},
   year={2025},
-  publisher={}
+  eprint={2510.22990},
+  archivePrefix={arXiv},
+  primaryClass={eess.IV},
+  url={https://doi.org/10.48550/arXiv.2510.22990},
 }
 ```
 
