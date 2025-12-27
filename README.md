@@ -21,6 +21,7 @@ This repository provides:
 - The **USF-MAE pretrained checkpoint** ([Checkpoints section](#-checkpoints))
 - Access links and references for **OpenUS-46** ([OpenUS-46 Dataset Collection section](#-openus-46-dataset-collection)) - Additional three datasets (a total of 49D) can be accessed using the following link: [Link](https://drive.google.com/file/d/1TJ6Rz2MGtfUzGrK-LPO6DSETIV8fpQXh/view?usp=drive_link)
 - Scripts for USF-MAE pretraining
+- Access the Facebook MAE scripts using the following link: [Link](https://drive.google.com/file/d/1fYLrKOI-hvFFnY_gA8U6JvH2YziEvgr8/view?usp=drive_link)
 
 ---
 
