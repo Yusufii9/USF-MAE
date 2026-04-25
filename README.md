@@ -123,14 +123,16 @@ cd USF-MAE
 If you find our work helpful for your research, please consider citing us using the following BibTeX entry:
 
 ```bibtex
-@article{megahed2025usfmae,
-  title={USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding},
-  author={Youssef Megahed and Robin Ducharme and Aylin Erman and Mark Walker and Steven Hawken and Adrian D. C. Chan},
-  year={2025},
-  eprint={2510.22990v2},
-  archivePrefix={arXiv},
-  primaryClass={eess.IV},
-  url={https://doi.org/10.48550/arXiv.2510.22990},
+@article{MEGAHED2026110313,
+author = {Youssef Megahed and Robin Ducharme and Aylin Erman and Mark C. Walker and Steven Hawken and Adrian D.C. Chan},
+title = {USF-MAE: Ultrasound self-supervised foundation model with masked autoencoding},
+journal = {Biomedical Signal Processing and Control},
+volume = {122},
+pages = {110313},
+year = {2026},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2026.110313},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809426008670}
 }
 ```
 
