@@ -4,9 +4,9 @@ This repository accompanies the paper:
 
 > **Paper Title: USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding**  
 > Authors: *Youssef Megahed, Robin Ducharme, Aylin Erman, Mark Walker, Steven Hawken, Adrian D.C. Chan*
-> Accepted to be Published soon in the Biomedical Signal Processing and Control Journal  
+> Published in the Biomedical Signal Processing and Control Journal  
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.22990-b31b1b.svg)](https://doi.org/10.48550/arXiv.2510.22990)
+[![paper](https://img.shields.io/badge/arXiv-2510.22990-b31b1b.svg)](https://doi.org/10.1016/j.bspc.2026.110313)
 
 ---
 
