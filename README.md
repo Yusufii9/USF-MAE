@@ -1,3 +1,5 @@
+
+
 # 🩺 USF-MAE: Ultrasound Self-Supervised Foundation Model with Masked Autoencoding
 
 This repository accompanies the paper:
@@ -118,6 +120,24 @@ git clone https://github.com/Yusufii9/USF-MAE.git
 cd USF-MAE
 ```
 
+### Data Loading Example
+
+The repository includes `US_data_loading.py` for handling ultrasound images. You can use it to load and augment your dataset as follows:
+
+```python
+from US_data_loading import USImagesDataset
+
+# Replace with your list of image paths
+image_paths = ["path/to/image1.jpg", "path/to/image2.png"]
+
+# Load dataset with augmentations (set to False for evaluation)
+dataset = USImagesDataset(image_paths=image_paths, do_augmentation=True)
+
+# Iterate over samples
+for img in dataset:
+    print(img.shape)  # Output: torch.Size([3, 224, 224])
+```
+
 ## 📚 References
 
 If you find our work helpful for your research, please consider citing us using the following BibTeX entry:
@@ -135,4 +155,3 @@ doi = {https://doi.org/10.1016/j.bspc.2026.110313},
 url = {https://www.sciencedirect.com/science/article/pii/S1746809426008670}
 }
 ```
-
